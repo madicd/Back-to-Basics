@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 import static java.util.stream.Collectors.toSet;
 import static org.junit.Assert.assertTrue;
 
-public class CollectionInitializationTest {
+public class SetInitializationTest {
 
     @Test
     public void initSetDoubleBraces() {
